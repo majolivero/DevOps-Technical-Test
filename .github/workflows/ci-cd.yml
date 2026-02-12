@@ -2,7 +2,7 @@ name: Java CI/CD Pipeline
 
 on:
   push:
-    branches: ["master"]
+    branches: ["feature/CI-CD"]
 
 jobs:
   application-build:
